@@ -1,0 +1,1 @@
+# stock-management-product-service
